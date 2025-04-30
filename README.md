@@ -45,4 +45,4 @@ Create `.env` file and provide `REACT_APP_API_BASE_URL`
 
 
 ### Trade-off
-- Right now, afte adding a new plan, we have to refresh to show it on table.
+- Right now, after adding a new plan, we have to refresh to show it on table.
